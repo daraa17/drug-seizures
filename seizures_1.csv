@@ -1,4 +1,4 @@
-Region,Country,ISO Code,Drug Group,Drug,Year,KG Equivalent
+Region,country,ISO Code,Drug Group,Drug,Year,KG Equivalent
 Africa,Algeria,DZA,Cannabis-type,Marijuana (herb),1970,141
 Africa,Algeria,DZA,Cannabis-type,Hashish (resin),1970,140
 Americas,Argentina,ARG,Cocaine-type,Coca leaf,1970,13482
@@ -1786,9 +1786,9 @@ Europe,Italy,ITA,Cannabis-type,Marijuana (herb),1982,964
 Europe,Italy,ITA,Cannabis-type,Hashish (resin),1982,3901
 Europe,Italy,ITA,Cannabis-type,Cannabis plants,1982,124151.2
 Europe,Italy,ITA,Hallucinogens,LSD,1982,0.130999997
-Africa,Côte d'Ivoire,CIV,Sedatives and Tranquillizers,Depressants (excluding Methaqualone),1982,0.327119993
-Africa,Côte d'Ivoire,CIV,ATS,Non-specified ATS,1982,30.625
-Africa,Côte d'Ivoire,CIV,Cannabis-type,Marijuana (herb),1982,618.2050171
+Africa,Cote d'Ivoire,CIV,Sedatives and Tranquillizers,Depressants (excluding Methaqualone),1982,0.327119993
+Africa,Cote d'Ivoire,CIV,ATS,Non-specified ATS,1982,30.625
+Africa,Cote d'Ivoire,CIV,Cannabis-type,Marijuana (herb),1982,618.2050171
 Americas,Jamaica,JAM,Cocaine-type,"Cocaine (base, paste and salts)",1982,9.753000259
 Americas,Jamaica,JAM,Cannabis-type,Cannabis oil,1982,0.226999998
 Americas,Jamaica,JAM,Cannabis-type,Marijuana (herb),1982,61810
