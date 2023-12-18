@@ -28,12 +28,12 @@ The data was cleaned in various ways. The USO team by creating a new derivative 
 
 **Exploratory Data Analysis (EDA):** 
 The following images are exploratory data analysis from the project. 
-<p align='center'> <img src='images/TOP10INCOME.PNG'></p>
-<p align='center'> <img src='images/MEANSEIZUREINCOME.PNG'></p>
-<p align='center'> <img src='images/INCOMESEIZURESLINE.PNG'></p>
-<p align='center'> <img src='images/USOPIECHART.PNG'></p>
-<p align='center'> <img src='images/USOBARGRAPH.PNG'></p>
-<p align='center'> <img src='images/USODRUGSSEIZED.PNG'></p>
+<p align='center'> <img src='images/TOP10INCOME.png'></p>
+<p align='center'> <img src='images/MEANSEIZUREINCOME.png'></p>
+<p align='center'> <img src='images/INCOMESEIZURESLINE.png'></p>
+<p align='center'> <img src='images/USOPIECHART.png'></p>
+<p align='center'> <img src='images/USOBARGRAPH.png'></p>
+<p align='center'> <img src='images/USODRUGSSEIZED.png'></p>
 
 
 **Statistical Analysis:** Statistical analysis was performed on CPI vs Number of Drug Seizures for the Pearson's Correlation Coefficient. 
@@ -41,18 +41,18 @@ The following images are exploratory data analysis from the project.
 *Correlation Coefficient:*
 
 Europe: 0.38 Low Correlation
-<p align='center'> <img src='images/CPIEUROPE.PNG'></p>
+<p align='center'> <img src='images/CPIEUROPE.png'></p>
 Americas: 0.49 Moderate 
 Correlation
-<p align='center'> <img src='images/CPIAMERICAS.PNG'></p>
+<p align='center'> <img src='images/CPIAMERICAS.png'></p>
 Africa: 0.25 Low Correlation
-<p align='center'> <img src='images/CPIAFRICA.PNG'></p>
+<p align='center'> <img src='images/CPIAFRICA.png'></p>
 Asia: 0.41 Moderate Correlation
-<p align='center'> <img src='images/CPIASIA.PNG'></p>
+<p align='center'> <img src='images/CPIASIA.png'></p>
 Oceania : 0.83 High Correlation
-<p align='center'> <img src='images/CPIOCEANIA.PNG'></p>
+<p align='center'> <img src='images/CPIOCEANIA.png'></p>
 All countries: 0.58 Moderate Correlation
-<p align='center'> <img src='images/CPIDATA.PNG'></p>
+<p align='center'> <img src='images/CPIDATA.png'></p>
 
 **Results and Insights:** 
 In the US, there has been a rise in the seizure of larger quantities of heroin over time, as evidenced by the summarized data. For the international part of the project, not all countries have historically reported seizures so that will affect the true nature of the data. 
