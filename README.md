@@ -84,6 +84,7 @@ Matplotlib <br>
 pandas<br> 
 scipy<br> 
 Numpy<br> 
+Seaborn<br>
 linregress <br> 
 pprint<br> 
 Geopandas<br> 
